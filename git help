@@ -1,0 +1,7 @@
+git add -A # Adds all files
+
+git status - shows whats been added
+
+git commit -m "blah" # commits with message
+
+git push origin master # pushes changes to github
